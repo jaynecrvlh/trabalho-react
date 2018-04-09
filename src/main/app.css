@@ -1,0 +1,16 @@
+html body{
+    height: 100%;
+    position: relative;
+}
+.body{
+    padding-bottom: 80px;
+}
+main{
+    min-height: 100vh;
+    overflow: hidden;
+    display:  block;
+    position: relative;
+}
+.container {
+    width: 90vw;
+}

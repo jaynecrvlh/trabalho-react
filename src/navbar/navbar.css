@@ -1,0 +1,17 @@
+.navbar {
+    background-color: black;
+    
+}
+
+#nav-mobile>li>a:hover {
+    background-color: white;
+    color: black;
+}
+
+.logo-img{
+    max-height: 30px!important;
+    padding-left: 30px;
+}
+.nav-secoes{
+    padding-right: 30px;
+}

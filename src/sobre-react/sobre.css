@@ -1,0 +1,40 @@
+.secao1{
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    padding-top: 30px;
+    margin: auto;
+    width: 1110px;
+    font-size: 14pt;
+}
+.definicao{
+    color: rgb(36, 204, 250);
+}
+
+.row{
+    padding-top: 30px;
+}
+.col > div > p{
+    text-align: justify;
+}
+.titulo-col{
+    padding-left: 16%;
+}
+.block{
+    display: block;
+}
+.titulo-texto{
+    padding-left: 65px;
+}
+.instalacao{
+    padding-top: 10px;
+    padding-left: 65px;
+}
+.img-r{
+    padding-top: 20px;
+    padding-left: 60px;
+}
+.texto-his{
+    padding-right: 70px;
+}

@@ -1,0 +1,20 @@
+.footer{
+    background-color: black;
+    color: white;
+    height: 70px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+ul{
+    display: flex;
+}
+
+li{
+    padding-left: 20px;
+}
+
+
